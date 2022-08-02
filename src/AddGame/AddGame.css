@@ -1,0 +1,10 @@
+.add-game {
+  padding: 20px 30px;
+  margin: 10px;
+  border: 1px solid gainsboro;
+  border-radius: 4px;
+}
+
+.add-game > *+* {
+  margin-left: 12px;
+}

@@ -1,0 +1,18 @@
+.score-board {
+  padding: 20px 30px;
+  margin: 10px;
+  border: 1px solid gainsboro;
+  border-radius: 4px;
+}
+
+.score-board li {
+  list-style-type: none;
+  padding: 4px;
+  border-radius: 4px;
+  margin: 4px;
+  background-color: gainsboro;
+}
+
+.score-board li.live {
+  background: darkseagreen;
+}

@@ -1,0 +1,10 @@
+.update-score {
+  padding: 20px 30px;
+  margin: 10px;
+  border: 1px solid gainsboro;
+  border-radius: 4px;
+}
+
+.update-score > *+* {
+  margin-left: 12px;
+}
